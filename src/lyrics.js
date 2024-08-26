@@ -14,7 +14,7 @@ export const lyrics = reactive({
     uploadedCover: '',
     albumMainColor: '',
     albumColorPlatte: '',
-    searchAPIUrl: "https://api.taions.nonon.moe",
+    searchAPIUrl: "https://api.taions.yuuikic.com",
     hasGotLyrics: '',
     hasShownLyrics: '',
     changeSelectedStatus(isSelected) {
