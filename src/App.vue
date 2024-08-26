@@ -2,7 +2,7 @@
 import { ref, watch, toRefs, onMounted, nextTick } from 'vue';
 import SongResult from './SongResult.vue';
 import { lyrics } from './lyrics.js';
-import CreatePoster from './createPoster.vue'
+import CreatePoster from './CreatePoster.vue'
 import ColorThief from '../node_modules/colorthief/dist/color-thief.mjs';
 import anime from 'animejs';
 
