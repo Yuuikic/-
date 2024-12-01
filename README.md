@@ -8,7 +8,7 @@
 
 一个在线歌词海报生成器是也。
 
-Demo：[https://taions.nonon.moe/](https://taions.nonon.moe/)
+Demo：[https://taions.yuuikic.com/](https://taions.yuuikic.com/)
 
 ~~其实是Yuuikic的前端学习和练手项目~~
 
